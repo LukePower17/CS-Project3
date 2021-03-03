@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj": {}
+    "C:\\Users\\Luke\\School\\Spring2021\\C#\\Assignments\\P3-Git\\Project3\\Project3\\Project3.csproj": {}
   },
   "projects": {
-    "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj": {
+    "C:\\Users\\Luke\\School\\Spring2021\\C#\\Assignments\\P3-Git\\Project3\\Project3\\Project3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\School\\Spring2021\\C#\\Assignments\\P3-Git\\Project3\\Project3\\Project3.csproj",
         "projectName": "Project3",
-        "projectPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj",
-        "packagesPath": "C:\\Users\\lukep\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\obj\\",
+        "projectPath": "C:\\Users\\Luke\\School\\Spring2021\\C#\\Assignments\\P3-Git\\Project3\\Project3\\Project3.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luke\\School\\Spring2021\\C#\\Assignments\\P3-Git\\Project3\\Project3\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\lukep\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

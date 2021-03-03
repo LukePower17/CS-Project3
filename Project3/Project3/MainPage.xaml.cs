@@ -18,6 +18,7 @@ using Windows.UI.Xaml.Navigation;
 using System.Diagnostics;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
+//initial commit to laptop
 
 namespace Project3
 {
@@ -271,6 +272,7 @@ namespace Project3
             }
 
         }
+
 
         private void Item1_Click(object sender, RoutedEventArgs e)
         {
