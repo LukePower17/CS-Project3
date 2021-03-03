@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b69ADtSHxa0EybG4IMAu2yjPQBW/e0nY+XqHTN0hT1d4p3sH4eRRdjl+8IkvI+I//fCaZg/q773+dEV2sJPeRQ==",
+  "dgSpecHash": "jTKYOsvW9K36AZtcwoIQCqRxyDnk7MRV1MR1+0N5vo/HuZuOSb31l/isxU1UMrrMY4Vang2LjlKhZgIu9D+pKg==",
   "success": true,
-  "projectFilePath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj",
+  "projectFilePath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3Git\\Project3\\Project3\\Project3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukep\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Users\\lukep\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",

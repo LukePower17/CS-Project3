@@ -8158,11 +8158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj",
+      "projectUniqueName": "D:\\School\\Spring2021\\C#\\Assignments\\Project3Git\\Project3\\Project3\\Project3.csproj",
       "projectName": "Project3",
-      "projectPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\Project3.csproj",
+      "projectPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3Git\\Project3\\Project3\\Project3.csproj",
       "packagesPath": "C:\\Users\\lukep\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3\\Project3\\Project3\\obj\\",
+      "outputPath": "D:\\School\\Spring2021\\C#\\Assignments\\Project3Git\\Project3\\Project3\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
