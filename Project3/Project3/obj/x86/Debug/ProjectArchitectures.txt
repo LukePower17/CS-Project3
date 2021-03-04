@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 D:\School\Spring2021\C#\Assignments\Project3Git\Project3\Project3\Project3.csproj;x86
+=======
+C:\Users\Luke\School\Spring2021\C#\Assignments\P3-Git\Project3\Project3\Project3.csproj;x86
+>>>>>>> ef496dbb4102f42f9566d0a141916b001cee6b48
