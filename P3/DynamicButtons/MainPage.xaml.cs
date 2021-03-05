@@ -1,4 +1,5 @@
-﻿using DynamicButtons.ViewModels;
+﻿using DynamicButtons.Dialogs;
+using DynamicButtons.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -34,5 +35,16 @@ namespace DynamicButtons
             (DataContext as MainViewModel).AddToCart();
         }
 
+        private void CartBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            (DataContext as MainViewModel).Remove();
+        }
+
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //generate full list of all items, show tax amount, subtotal, and total
+            var checkout = new Dialogs.MyDialog((DataContext as MainViewModel));
+            await checkout.ShowAsync();
+        }
     }
 }

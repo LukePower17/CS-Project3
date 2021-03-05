@@ -23,11 +23,11 @@
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <!--<Button HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Content="{Binding Name}" Click="Button_Click"></Button>-->
-                        <TextBlock Text="{Binding Name}"/>
+                        <TextBlock Text="{Binding Display}"/>
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
-            <ListBox Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Cart}">
+            <ListBox Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Cart}" SelectedItem="{Binding SelectedCartItem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectionChanged="CartBox_SelectionChanged">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <!--<Button HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Content="{Binding Name}" Click="Button_Click"></Button>-->
@@ -41,8 +41,8 @@
                 <ColumnDefinition/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <Button Grid.Column="0" Content="Checkout" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
-            <TextBlock Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Text="{Binding Total, UpdateSourceTrigger=PropertyChanged}"></TextBlock>
+            <Button Grid.Column="0" Content="Checkout" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="Button_Click"/>
+            <TextBlock Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Text="{Binding Subtotal, UpdateSourceTrigger=PropertyChanged}"></TextBlock>
         </Grid>
     </Grid>
 </Page>
